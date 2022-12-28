@@ -38,5 +38,5 @@ pipeline{
         changed{
             echo "pipeline changed"
         }
-    }
+    } 
 }
